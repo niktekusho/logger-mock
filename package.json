@@ -1,0 +1,49 @@
+{
+    "name": "logger-mock",
+    "version": "1.0.0-0",
+    "description": "Basic logger mock for testing purposes",
+    "main": "index.js",
+    "types": "index.d.ts",
+    "license": "MIT",
+    "devDependencies": {
+        "@types/jest": "^24.0.17",
+        "jest": "^24.8.0",
+        "np": "^5.0.3",
+        "tsd": "^0.7.3",
+        "xo": "^0.24.0"
+    },
+    "engines": {
+        "node": ">=8"
+    },
+    "files": [
+        "index.d.ts"
+    ],
+    "scripts": {
+        "release": "np",
+        "test": "xo && jest && tsd"
+    },
+    "xo": {
+        "envs": [
+            "jest"
+        ]
+    },
+    "jest": {
+        "collectCoverage": true
+    },
+    "author": {
+        "name": "Nicola Dal Maso",
+        "url": "https://github.com/niktekusho/"
+    },
+    "bugs": {
+        "url": "https://github.com/niktekusho/logger-mock/issues"
+    },
+    "contributors": [{
+        "name": "Nicola Dal Maso",
+        "url": "https://github.com/niktekusho/"
+    }],
+    "homepage": "https://github.com/niktekusho/logger-mock#readme",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/niktekusho/logger-mock.git"
+    }
+}
