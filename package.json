@@ -1,6 +1,6 @@
 {
     "name": "logger-mock",
-    "version": "1.0.0-0",
+    "version": "1.0.0",
     "description": "Basic logger mock for testing purposes",
     "main": "index.js",
     "types": "index.d.ts",
@@ -37,10 +37,12 @@
     "bugs": {
         "url": "https://github.com/niktekusho/logger-mock/issues"
     },
-    "contributors": [{
-        "name": "Nicola Dal Maso",
-        "url": "https://github.com/niktekusho/"
-    }],
+    "contributors": [
+        {
+            "name": "Nicola Dal Maso",
+            "url": "https://github.com/niktekusho/"
+        }
+    ],
     "homepage": "https://github.com/niktekusho/logger-mock#readme",
     "repository": {
         "type": "git",
