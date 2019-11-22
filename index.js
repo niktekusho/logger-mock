@@ -95,7 +95,8 @@ class LoggerMock {
 	}
 
 	[Symbol.iterator]() {
-		return this.logs.values();
+		// TODO: Use values() when dropping support for Node 8
+		return this.logs[Symbol.iterator]();
 	}
 }
 
