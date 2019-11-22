@@ -1,6 +1,6 @@
 # logger-mock
 
-<!-- ![](https://img.shields.io/github/license/niktekusho/logger-mock.svg) [![](https://img.shields.io/npm/v/logger-mock.svg)](https://www.npmjs.com/package/logger-mock) [![Build Status](https://travis-ci.org/niktekusho/logger-mock.svg?branch=master)](https://travis-ci.org/niktekusho/logger-mock) [![](https://img.shields.io/node/v/logger-mock.svg)](https://www.npmjs.com/package/logger-mock) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![Maintainability](https://api.codeclimate.com/v1/badges/744538fb7227c1a86bea/maintainability)](https://codeclimate.com/github/niktekusho/logger-mock/maintainability) [![](https://img.shields.io/bundlephobia/minzip/logger-mock.svg)](https://bundlephobia.com/result?p=logger-mock) -->
+![](https://img.shields.io/github/license/niktekusho/logger-mock.svg) [![](https://img.shields.io/npm/v/logger-mock.svg)](https://www.npmjs.com/package/logger-mock) ![](https://github.com/niktekusho/logger-mock/workflows/Build%20Status/badge.svg) [![](https://img.shields.io/node/v/logger-mock.svg)](https://www.npmjs.com/package/logger-mock) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/sindresorhus/xo) [![](https://img.shields.io/bundlephobia/minzip/logger-mock.svg)](https://bundlephobia.com/result?p=logger-mock)
 
 > Basic logger mock for testing purposes
 
